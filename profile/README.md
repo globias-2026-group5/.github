@@ -3,6 +3,8 @@
 Group 5's work for **Session 06 "Benchmarking"** of the GloBIAS 2026 workshop. *Group work for the
 workshop; not an official GloBIAS account.*
 
+**Website:** https://globias-2026-group5.github.io/
+
 **Can an AI agent run, and rerun, a bioimage analysis?** In October 2026 one Claude session ran ilastik's
 MitoCheck cell-tracking example from scratch, hitting seven walls on the way. Four more sessions then
 tried again. Two read that repository and reproduced it without help in 15–41 minutes; their results
