@@ -15,7 +15,7 @@ session overstated something that a second look caught.
 
 | repository | what it holds |
 |---|---|
-| [agent-benchmark-ilastik-tracking](https://github.com/globias-2026-group5/ilastik-agent-benchmark) | **Start here:** the five sessions compared, with figures |
+| [agent-benchmark-ilastik-tracking](https://github.com/globias-2026-group5/agent-benchmark-ilastik-tracking) | **Start here:** the five sessions compared, with figures |
 | [ilastik-mitocheck-run](https://github.com/globias-2026-group5/ilastik-mitocheck-run) | The original run: every step, error and result, as a story |
 | [workshop](https://github.com/globias-2026-group5/workshop) | The group's working space: Assignments I and II, the presentation, discussion issues |
 | [shape-analysis-field-guide](https://github.com/globias-2026-group5/shape-analysis-field-guide) | A plain-language guide to the Shape Analysis 101 tutorial ([site](https://globias-2026-group5.github.io/shape-analysis-field-guide/)) |
